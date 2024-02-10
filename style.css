@@ -1,0 +1,56 @@
+* {
+    font-family: sans-serif;
+    margin-top: 10px;
+}
+
+.name {
+    text-align: center;
+    color: black;
+}
+
+.anos {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.Adress {
+    text-align: center;
+    margin-top:-10px;
+}
+
+.Cellphone_Email {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.LinkedIn {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.GitHub {
+    text-align: center;
+    margin-top: -10px;
+}
+
+.nome {
+    border-bottom: 3px solid grey;
+    color: grey;
+}
+
+.faixa1 {
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+}
+
+p {
+    margin: 20px;
+}
+
+li {
+    font-weight: bold;
+}
+
+
+
